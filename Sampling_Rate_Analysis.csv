@@ -1,0 +1,9 @@
+Participant,Activity,Samples,Sampling_Rate_Hz,Median_Interval_ms
+Jean-Pierre,walking,8270,98.7,10.13
+Jean-Pierre,standing,10625,98.7,10.13
+Jean-Pierre,jumping,8360,98.7,10.13
+Jean-Pierre,still,8719,98.7,10.13
+Marion,walking,8025,100.54,9.95
+Marion,standing,8013,100.54,9.95
+Marion,jumping,8096,100.54,9.95
+Marion,still,6954,100.54,9.95
