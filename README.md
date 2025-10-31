@@ -85,5 +85,5 @@ The system achieves robust activity recognition performance with:
 3. Generated datasets and visualizations will be saved automatically
 
 ## Authors
-Marion Wandia Mwangi
-Jean Pierre Niyongabo
+- Marion Wandia Mwangi
+- Jean Pierre Niyongabo
